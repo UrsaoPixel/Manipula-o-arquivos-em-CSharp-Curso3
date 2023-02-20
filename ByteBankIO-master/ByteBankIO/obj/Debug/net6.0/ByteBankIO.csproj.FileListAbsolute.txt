@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Dev\Aprendendo C#\C# Trabalhando com arquivos\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
